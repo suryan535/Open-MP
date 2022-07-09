@@ -1,0 +1,22 @@
+SYSTEM CONFIGURATON :
+OS: windows 11
+no of cores: 6
+no of processors: 12
+clock speed: 2.60 GHz
+
+num of threads=1
+Time required for each step: 4.092125 seconds
+Total simulation time: 31520.245 seconds
+
+num of threads=2
+Time required for each step: 2.233125 seconds
+Total simulation time: 17156.367 seconds
+
+num of threads=4
+Time required for each step: 1.117375 seconds
+Total simulation time: 10064.942 seconds
+
+num of threads=6
+Time required for each step: 0.85350 seconds
+Total simulation time: 8940.997 seconds
+

@@ -1,0 +1,13 @@
+Scalability is measured for  720000 iterations as mentioned in the question.
+
+num of threads=1
+time elapsed: 31520.245 seconds
+
+num of threads=2
+time elapsed: 17156.367 seconds
+
+num of threads=4
+time elapsed: 10064.942 seconds
+
+num of threads=6
+time elapsed: 8940.997 seconds
